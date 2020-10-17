@@ -1,35 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8fb6064f940f97e16b7ef9b86e31f15e",
+    "revision": "e3537efeeb01ea95ba4dc45211026c02",
     "url": "/index.html"
   },
   {
-    "revision": "8772bf0a9ee54657b28f",
+    "revision": "70934c04b0da9b13eda6",
     "url": "/static/css/2.11829350.chunk.css"
   },
   {
-    "revision": "1c81c5f862a620ed81d8",
-    "url": "/static/css/main.5ab619be.chunk.css"
+    "revision": "224f9bf14304f710c791",
+    "url": "/static/css/main.7761a1a8.chunk.css"
   },
   {
-    "revision": "8772bf0a9ee54657b28f",
-    "url": "/static/js/2.38cabc7b.chunk.js"
+    "revision": "70934c04b0da9b13eda6",
+    "url": "/static/js/2.f36057d7.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/static/js/2.38cabc7b.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.f36057d7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1c81c5f862a620ed81d8",
-    "url": "/static/js/main.440f753c.chunk.js"
+    "revision": "224f9bf14304f710c791",
+    "url": "/static/js/main.7b9829df.chunk.js"
   },
   {
-    "revision": "4925d4c55c5b6448fc83d2fa4b9bb4be",
-    "url": "/static/js/main.440f753c.chunk.js.LICENSE.txt"
+    "revision": "09bdece85176a3918a934d387e077f0a",
+    "url": "/static/js/main.7b9829df.chunk.js.LICENSE.txt"
   },
   {
     "revision": "1af6ee38465143d607d5",
     "url": "/static/js/runtime-main.d653ab47.js"
+  },
+  {
+    "revision": "1359fa9abb61d5bf695e80be39278b04",
+    "url": "/static/media/GuvenHukukLogo230.1359fa9a.jpg"
   },
   {
     "revision": "1dc35d25e61d819a9c357074014867ab",

@@ -1,0 +1,68 @@
+[
+    {
+        "id": 2001,
+        "imagePrf": "AnkaraAgreementA",
+        "imageCount": 1,
+        "title": "Ankara Antlaşması",
+        "author": "Betül Güven",
+        "datePublish": "2020-10-21",
+        "tags": ["AnkaraAntlaşması", "ankaraantlasmasivizesi", "ankaraantlaşması", "ankaraişilanı", "ingiltere", "ingilteredeyasam", "ingilteredeeğitim", "visa", "ecaa", "workpermit"],
+        "descShort": null,
+        "descLong": null
+    },
+    {
+        "id": 2002,
+        "imagePrf": "WorkPermitA",
+        "imageCount": 1,
+        "title": "Çalışma İzni",
+        "author": "Betül Güven",
+        "datePublish": "2020-10-21",
+        "tags": ["çalışmaizni", "workpermit", "workvisa", "permit", "residentpermit", "foreigners", "turkey", "ankaraantlasmasi"],
+        "descShort": null,
+        "descLong": null
+    },
+    {
+        "id": 2003,
+        "imagePrf": "StudentVisaEducationA",
+        "imageCount": 2,
+        "title": "Öğrenci Vize Eğitim",
+        "author": "Betül Güven",
+        "datePublish": "2020-10-21",
+        "tags": ["apply", "visa", "turkey", "istanbul", "workpermit", "residentpermit", "education", "consultancy"],
+        "descShort": null,
+        "descLong": null
+    },
+    {
+        "id": 2004,
+        "imagePrf": "TrEuropeTravelA",
+        "imageCount": 1,
+        "title": "Türkiye Avrupa Seyahat",
+        "author": "Betül Güven",
+        "datePublish": "2020-10-21",
+        "tags": ["apply", "appointment", "visa", "schengen", "residentpermit", "citizenship", "lawyer", "law", "lawoffice", "turkey", "istanbul", "foreigner", "proxy", "realestate", "resident", "realestateinvesting", "realestateagent", "followforfollowback", "follow4followback"],
+        "descShort": null,
+        "descLong": null
+    },
+    {
+        "id": 2005,
+        "imagePrf": "AdaptationA",
+        "imageCount": 4,
+        "title": "Uyarlama",
+        "author": "Betül Güven",
+        "datePublish": "2020-10-21",
+        "tags": ["uyarlama", "koronatürkiye", "korona", "koronagünleri", "sözleşme", "avukat", "hukuköğrencisi", "hukukbürosu", "turkishcitizenshiplawyer", "turkishcitizenshipbyinvestment", "kisisel", "tazminat", "kisiselveri", "personaldata", "corporate", "kvkkdanışmanlığı", "kvkkuyumsüreci", "personaldataprotection", "sosyalmedya", "instagram", "facebook", "cezaevi", "sosyalmedyadanısmanlıgı", "apply", "lawyer", "law", "lawoffice"],
+        "descShort": null,
+        "descLong": null
+    },
+    {
+        "id": 2006,
+        "imagePrf": "ForeignAdminOversightA",
+        "imageCount": 2,
+        "title": "Yabancıların İdari Gözetimi",
+        "author": "Betül Güven",
+        "datePublish": "2020-10-21",
+        "tags": ["yabancılar", "idarigözetim", "özgürlük", "deport", "foreigners", "detention", "stateless", "apply", "appointment", "visa", "residentpermit", "workpermit", "citizenship", "lawyer", "law", "lawoffice", "turkey", "istanbul", "foreigner", "proxy", "realestate", "realestateagent", "realestateinvesting", "resident", "followforfollowback", "follow4followback"],
+        "descShort": null,
+        "descLong": null
+    }
+]

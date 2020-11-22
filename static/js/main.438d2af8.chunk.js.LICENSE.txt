@@ -14,50 +14,6 @@
     </div>
     */
 
-/*!!! TEMP !!!!!!!!!!!!!!!!!!!!!!
-  _update_TEMP_OPTIONS = (event) => {
-    const eventCtrlKey = (event ? event.ctrlKey : false);
-    if (debugEnabled)
-      consoleLog("_update_TEMP_OPTIONS.eventCtrlKey: " + eventCtrlKey);
-
-    if (eventCtrlKey) {
-      const opt = this.state._show_TEMP_OPTIONS;
-      this.setState({ _show_TEMP_OPTIONS: !opt });
-    }
-  }
-
-  _TEMP_BG_NAV_TOP = (bgColor) => {
-    _updateTEMP_BG_NAV_TOP(bgColor);
-    this.setState({ _TEMP: true });
-  }
-
-  _TEMP_BG_BTN_TOP_VAR = (colorSfx) => {
-    _updateTEMP_BG_BTN_TOP_VAR(colorSfx);
-    this.setState({ _TEMP: true });
-  }
-
-  _TEMP_BG_NAV_MENU = (color) => {
-    _updateTEMP_BG_NAV_MENU(color);
-    this.setState({ _TEMP: true });
-  }
-
-  _TEMP_BG_CONTENT_TITLE = (color) => {
-    _updateTEMP_BG_CONTENT_TITLE(color);
-    this.setState({ _TEMP: true });
-  }
-
-  _TEMP_BG_BTN_MENU_VAR = (colorSfx) => {
-    _updateTEMP_BG_BTN_MENU_VAR(colorSfx);
-    this.setState({ _TEMP: true });
-  }
-
-
-  _TEMP_NAV_BORDER_BOTTOM = (cname) => {
-    this.setState({ _TEMP_NAV_BORDER_BOTTOM: cname });
-  }
-  //!!! TEMP !!!!!!!!!!!!!!!!!!!!!!
-  */
-
 /*!!!DEPRECATED!!!
   //componentWillMount?(): void;
   componentWillMount() {

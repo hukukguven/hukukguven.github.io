@@ -1,12 +1,78 @@
 [
     {
-        "id": 2001,
-        "imagePrf": "AnkaraAgreementA",
+        "id": 2012,
+        "imagePrf": "PerDataProtectA",
+        "imageCount": 2,
+        "title": "Kişisel Verilerin Korunması",
+        "author": "Betül Güven",
+        "datePublish": "2020-11-26",
+        "tags": ["kvkk", "kişiselveri", "yazılım", "program"],
+        "descShort": null,
+        "descLong": null
+    },
+    {
+        "id": 2011,
+        "imagePrf": "RightToBeForgottenA",
+        "imageCount": 2,
+        "title": "Unutulma Hakkı",
+        "author": "Betül Güven",
+        "datePublish": "2020-11-26",
+        "tags": ["unutulmahakkı", "kvkk", "kişiselveri"],
+        "descShort": null,
+        "descLong": null
+    },
+    {
+        "id": 2013,
+        "imagePrf": "PerDataRightA",
+        "imageCount": 2,
+        "title": "Anayasal Bir Hak Olarak Kişisel Veriler",
+        "author": "Betül Güven",
+        "datePublish": "2020-11-26",
+        "tags": ["kvkk", "kişiselveri", "anayasa", "hak"],
+        "descShort": null,
+        "descLong": null
+    },
+    {
+        "id": 2014,
+        "imagePrf": "PerDataNameA",
         "imageCount": 1,
-        "title": "Ankara Antlaşması",
+        "title": "Kişisel Verilerden Ad ve Soyadın Korunması",
+        "author": "Betül Güven",
+        "datePublish": "2020-11-26",
+        "tags": ["kvkk", "kişiselveri", "aramamotoru", "adsoyad"],
+        "descShort": null,
+        "descLong": null
+    },
+    {
+        "id": 2015,
+        "imagePrf": "PerDataProcessA",
+        "imageCount": 1,
+        "title": "Kişisel Verilerin İşlenmesi",
+        "author": "Betül Güven",
+        "datePublish": "2020-11-26",
+        "tags": ["kvkk", "kişiselveri", "kanun", "rıza"],
+        "descShort": null,
+        "descLong": null
+    },
+    {
+        "id": 2005,
+        "imagePrf": "AdaptationA",
+        "imageCount": 4,
+        "title": "Uyarlama",
         "author": "Betül Güven",
         "datePublish": "2020-10-21",
-        "tags": ["AnkaraAntlaşması", "ankaraantlasmasivizesi", "ankaraantlaşması", "ankaraişilanı", "ingiltere", "ingilteredeyasam", "ingilteredeeğitim", "visa", "ecaa", "workpermit"],
+        "tags": ["uyarlama", "koronatürkiye", "korona", "koronagünleri", "sözleşme", "avukat", "hukukbürosu", "lawyer", "law", "lawoffice"],
+        "descShort": null,
+        "descLong": null
+    },
+    {
+        "id": 2006,
+        "imagePrf": "ForeignAdminOversightA",
+        "imageCount": 2,
+        "title": "Yabancıların İdari Gözetimi",
+        "author": "Betül Güven",
+        "datePublish": "2020-10-21",
+        "tags": ["yabancılar", "idarigözetim", "özgürlük", "deport", "foreigners", "detention", "stateless", "apply", "appointment", "visa", "residentpermit", "workpermit", "citizenship", "lawyer", "law", "lawoffice", "turkey", "istanbul", "foreigner", "realestate", "realestateagent", "realestateinvesting", "resident"],
         "descShort": null,
         "descLong": null
     },
@@ -22,47 +88,36 @@
         "descLong": null
     },
     {
-        "id": 2003,
-        "imagePrf": "StudentVisaEducationA",
-        "imageCount": 2,
-        "title": "Öğrenci Vize Eğitim",
-        "author": "Betül Güven",
-        "datePublish": "2020-10-21",
-        "tags": ["apply", "visa", "turkey", "istanbul", "workpermit", "residentpermit", "education", "consultancy"],
-        "descShort": null,
-        "descLong": null
-    },
-    {
         "id": 2004,
         "imagePrf": "TrEuropeTravelA",
         "imageCount": 1,
         "title": "Türkiye Avrupa Seyahat",
         "author": "Betül Güven",
         "datePublish": "2020-10-21",
-        "tags": ["apply", "appointment", "visa", "schengen", "residentpermit", "citizenship", "lawyer", "law", "lawoffice", "turkey", "istanbul", "foreigner", "proxy", "realestate", "resident", "realestateinvesting", "realestateagent", "followforfollowback", "follow4followback"],
+        "tags": ["apply", "appointment", "visa", "schengen", "residentpermit", "citizenship", "lawyer", "law", "lawoffice", "turkey", "istanbul", "foreigner", "realestate", "resident"],
         "descShort": null,
         "descLong": null
     },
     {
-        "id": 2005,
-        "imagePrf": "AdaptationA",
-        "imageCount": 4,
-        "title": "Uyarlama",
+        "id": 2001,
+        "imagePrf": "AnkaraAgreementA",
+        "imageCount": 1,
+        "title": "Ankara Antlaşması",
         "author": "Betül Güven",
         "datePublish": "2020-10-21",
-        "tags": ["uyarlama", "koronatürkiye", "korona", "koronagünleri", "sözleşme", "avukat", "hukuköğrencisi", "hukukbürosu", "turkishcitizenshiplawyer", "turkishcitizenshipbyinvestment", "kisisel", "tazminat", "kisiselveri", "personaldata", "corporate", "kvkkdanışmanlığı", "kvkkuyumsüreci", "personaldataprotection", "sosyalmedya", "instagram", "facebook", "cezaevi", "sosyalmedyadanısmanlıgı", "apply", "lawyer", "law", "lawoffice"],
+        "tags": ["AnkaraAntlaşması", "ankaraantlasmasivizesi", "ankaraantlaşması", "ankaraişilanı", "ingiltere", "ingilteredeyasam", "ingilteredeeğitim", "visa", "ecaa", "workpermit"],
         "descShort": null,
         "descLong": null
     },
     {
-        "id": 2006,
-        "imagePrf": "ForeignAdminOversightA",
+        "id": 2003,
+        "imagePrf": "StudentVisaEducationA",
         "imageCount": 2,
-        "title": "Yabancıların İdari Gözetimi",
+        "title": "Öğrenci Vize Eğitim",
         "author": "Betül Güven",
         "datePublish": "2020-10-21",
-        "tags": ["yabancılar", "idarigözetim", "özgürlük", "deport", "foreigners", "detention", "stateless", "apply", "appointment", "visa", "residentpermit", "workpermit", "citizenship", "lawyer", "law", "lawoffice", "turkey", "istanbul", "foreigner", "proxy", "realestate", "realestateagent", "realestateinvesting", "resident", "followforfollowback", "follow4followback"],
+        "tags": ["apply", "visa", "turkey", "istanbul", "residentpermit", "education", "consultancy"],
         "descShort": null,
         "descLong": null
     }
-]
+ ]
